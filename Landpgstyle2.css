@@ -1,0 +1,41 @@
+.section1,
+.section2,
+.section3,
+.section4,
+.section5 {
+    display: flex;
+}
+
+.section1 {
+    flex-direction: column;
+    background-color: #1f2937;
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-top: 24px;
+    padding-bottom: 72px;
+    margin-top: 24px;
+}
+
+.banner1 img {
+    height: 64px;
+    width: 64px;
+    margin: 12px;
+}
+
+.banner1 {
+    display: inline-flex;
+}
+
+.banner1 .empty {
+    flex: 1;
+}
+
+.welcome {
+    display: flex;
+}
+
+.section1 ul {
+    list-style-type: none;
+    display: inline-flex;
+    gap: 12px;
+}
