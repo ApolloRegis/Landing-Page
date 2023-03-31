@@ -12,6 +12,7 @@
     align-content: center;
     flex-wrap: wrap;
     padding: 12px;
+    padding-bottom: 100px;
 }
 
 .banner1 img {
