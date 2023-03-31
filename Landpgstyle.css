@@ -93,3 +93,9 @@
 .topics div div {
     margin: 8px;
 }
+
+.section3 {
+    justify-content: center;
+    background-color: #E5E7EB;
+    padding: 100px;
+}
