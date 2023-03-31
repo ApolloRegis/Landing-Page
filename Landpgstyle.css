@@ -17,6 +17,7 @@
 .banner1 img {
     height: 64px;
     width: 64px;
+    margin: 12px;
 }
 
 .banner1 {
@@ -50,4 +51,13 @@
 
 .card2 img {
     flex: 1;
+}
+
+.card1 button {
+    margin: 12px;
+}
+
+.card1 div,
+.card1 h1 {
+    margin:12px;
 }
