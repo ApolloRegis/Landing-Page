@@ -74,8 +74,7 @@
 }
 
 .topics img {
-    height: 180px;
-    width: 180px;
+flex: 1;
 }
 
 .topics div {
