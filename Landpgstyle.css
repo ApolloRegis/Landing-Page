@@ -29,10 +29,25 @@
 
 .welcome {
     display: flex;
+    align-items: center;
 }
 
 .section1 ul {
     list-style-type: none;
     display: inline-flex;
     gap: 12px;
+}
+
+.card1 {
+    width: 500px;
+}
+
+.card2 {
+    height: 256px;
+    width: 500px;
+    display: flex;
+}
+
+.card2 img {
+    flex: 1;
 }
