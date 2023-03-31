@@ -70,14 +70,21 @@
 
 .topics {
     display: flex;
-    justify-content: center;
+    gap: 64px;
 }
 
 .topics img {
-flex: 1;
+    flex: 1; 
+    width: 2px;
 }
 
 .topics div {
     width: 180px;
-    height: 250px;
+}
+
+.tpcs {
+    display: flex;
+    height: 200px;
+    padding: 8px;
+    background-color: #3882F6;
 }
