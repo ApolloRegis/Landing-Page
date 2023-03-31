@@ -88,3 +88,7 @@
     padding: 8px;
     background-color: #3882F6;
 }
+
+.topics div div {
+    margin: 8px;
+}
