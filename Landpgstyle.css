@@ -117,4 +117,8 @@
     padding: 10px;
 }
 
-.section5
+.section5 {
+    justify-content: center;
+    background-color: #1f2937;
+    padding: 50px;
+}
