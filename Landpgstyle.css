@@ -95,6 +95,12 @@ h1 {
     align-items: center;
 }
 
+h2 {
+    font-size: 36px;
+    font-weight: extra-bold;
+    color:#1f2937
+}
+
 .topics {
     display: flex;
     gap: 64px;
