@@ -130,6 +130,29 @@ h2 {
     justify-content: center;
     background-color: #E5E7EB;
     padding: 100px;
+    flex-direction: column;
+    align-content: center;
+    flex-wrap: wrap;
+}
+
+.section3 div {
+    width: 700px;
+    height: 200px;
+    font-size: 36px;
+    font-weight: lighter;
+    color: #1f2937;
+    font-style: italic;
+    justify-content: flex-end;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: flex-end;
+}
+
+.section3 p {
+    text-align: end;
+    font-weight: bold;
+    font-style: normal;
 }
 
 .section4 {
